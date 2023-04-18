@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveen-pilli-ai&label=Profile%20views&color=0e75b6&style=flat" alt="naveen-pilli-ai" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naveen-pilli-ai" alt="naveen-pilli-ai" /></a> </p>
+
 
 - 💬 Ask me about **Artificial Intelligence**
 
